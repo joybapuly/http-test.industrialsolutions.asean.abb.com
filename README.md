@@ -1,2 +1,2 @@
-# http-test.industrialsolutions.asean.abb.com
+# test.industrialsolutions.asean.abb.com
 subdomain take over
